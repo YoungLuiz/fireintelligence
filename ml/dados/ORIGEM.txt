@@ -1,0 +1,4 @@
+Fonte: INPE, Programa Queimadas, servidor de dados abertos (https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv)
+Baixado em: 2026-11-19 pelo notebook fire_intelligence_ml.ipynb
+Recorte: lat -14.8 a -13.5, lon -48.3 a -46.9
+Arquivos usados: focos_br_go_ref_2012.zip, focos_br_go_ref_2013.zip, focos_br_go_ref_2014.zip, focos_br_go_ref_2015.zip, focos_br_go_ref_2016.zip, focos_br_go_ref_2017.zip, focos_br_go_ref_2018.zip, focos_br_go_ref_2019.zip, focos_br_go_ref_2020.zip, focos_br_go_ref_2021.zip, focos_br_go_ref_2022.zip, focos_br_go_ref_2023.zip, focos_br_go_ref_2024.zip, focos_br_ref_2025.zip, focos_mensal_br_202601.csv, focos_mensal_br_202602.csv, focos_mensal_br_202603.csv, focos_mensal_br_202604.csv, focos_mensal_br_202605.csv, focos_mensal_br_202606.csv, focos_mensal_br_202607.csv, focos_mensal_br_202608.csv, focos_mensal_br_202609.csv, focos_mensal_br_202610.csv, focos_mensal_br_202611.csv

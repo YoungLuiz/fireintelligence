@@ -1,0 +1,29 @@
+{
+  "gerado_em": "2026-11-19T18:37:59",
+  "origem_dados": "INPE, Programa Queimadas: focos_chapada_2012_2026.csv",
+  "satelite": "AQUA_M-T",
+  "periodo_historico": "2013-01 a 2026-10",
+  "mes_referencia": "2026-11",
+  "grade": {
+    "lat_min": -14.8,
+    "lat_max": -13.5,
+    "lon_min": -48.3,
+    "lon_max": -46.9,
+    "tamanho_celula_graus": 0.1
+  },
+  "modelo": "Gradient Boosting (Poisson)",
+  "metricas_teste": {
+    "MAE célula": 0.329,
+    "RMSE célula": 0.978,
+    "Deviance Poisson": 0.824,
+    "MAE região/mês": 16.261
+  },
+  "metricas_baseline_sazonal": {
+    "MAE célula": 0.362,
+    "RMSE célula": 1.433,
+    "Deviance Poisson": 4.801,
+    "MAE região/mês": 29.294
+  },
+  "periodo_teste": "2024-01 a 2026-10",
+  "aviso": "Estimativa experimental baseada apenas no histórico de focos de calor do satélite de referência do INPE. Não classifica risco, não indica áreas aptas ou seguras para queima e não substitui avaliação de campo, profissionais habilitados, licenças ou protocolos oficiais."
+}
